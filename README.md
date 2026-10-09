@@ -113,4 +113,4 @@ Please avoid committing personal financial data, credentials, or other secrets. 
 
 ## Contact
 
-For questions or project contributions, contact **Darshan Kedar** at [red1815@gmail.com](mailto:red1815@gmail.com).
+For questions or project contributions, contact [darshankedare1815@gmail.com](darshankedare1815@gmail.com).
